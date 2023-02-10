@@ -3,7 +3,7 @@
     "path": "~/GitHub/practico-5/practico-5.Rmd",
     "project_path": "practico-5.Rmd",
     "type": "r_markdown",
-    "hash": "3474303628",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1675723058902.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "193,0",
-        "scrollLine": "178"
+        "cursorPosition": "210,159",
+        "scrollLine": "192"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675733260,
+    "lastKnownWriteTime": 1675988517,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675733260442,
+    "last_content_update": 1675988517746,
     "read_only": false,
     "read_only_alternatives": []
 }

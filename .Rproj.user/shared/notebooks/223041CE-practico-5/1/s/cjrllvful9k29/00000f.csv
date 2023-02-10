@@ -1,3 +1,47 @@
-"0","data(""wage1"") #Cargamos los datos
+"0","pacman::p_load(wooldridge, #Para descargar los datos
+               dplyr, #Para procesar datos
+               sjmisc, #Para explorar los datos
+               sjPlot, #Para explorar los datos
+               MCMCpack, #Para crear un ponderador ficticio
+               srvyr, #Para crear un objeto encuesta
+               survey, #Para realizar estimaciones incorporando el diseño muestral
+               texreg) #Para presentar el modelo de regresión estimado
 "
-"2","Warning: data set ‘wage1’ not found"
+"2","Warning: downloaded length 0 != reported length 281"
+"2","Warning: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.2/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","Warning: downloaded length 0 != reported length 281"
+"2","Warning: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.2/PACKAGES.gz': HTTP status was '404 Not Found'"
+"2","Warning: downloaded length 0 != reported length 281"
+"2","Warning: cannot open URL 'https://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.2/PACKAGES': HTTP status was '404 Not Found'"
+"2","Warning: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.2:
+  cannot open URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/4.2/PACKAGES'"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/mcmc_0.9-7.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1430947 bytes (1.4 MB)
+"
+"2","downloaded 1.4 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/MCMCpack_1.6-3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2465702 bytes (2.4 MB)
+"
+"2","downloaded 2.4 MB
+
+"
+"1","package ‘mcmc’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘MCMCpack’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\nicol\AppData\Local\Temp\Rtmp488KaQ\downloaded_packages"
+"1",""
+"1","
+"
+"2","Warning: package ‘MCMCpack’ was built under R version 4.2.2"
+"2","Warning: package ‘coda’ was built under R version 4.2.1"

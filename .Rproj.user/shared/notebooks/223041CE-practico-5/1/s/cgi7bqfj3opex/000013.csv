@@ -1,0 +1,6 @@
+"0","enc = data %>% 
+  as_survey_design(weights = pond) #Especificamos la variable del ponderador
+"
+"2","Error in UseMethod(""as_survey_design"") : 
+  no applicable method for 'as_survey_design' applied to an object of class ""function""
+"
